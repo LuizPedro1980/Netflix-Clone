@@ -1,0 +1,1 @@
+Clone do site da Netflix feito inteiramente utilizando HTML e CSS.
